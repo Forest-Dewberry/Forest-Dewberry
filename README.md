@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Forest-Dewberry
 - 👀 I’m interested in Automation Engineering, Digital Media Marketing, and apps and tools for everyday life.
 - 🌱 I’m currently learning data science with Python.
-- 💞️ I’m looking to collaborate on apps that make life easier.
+- 💞️ I’m looking to collaborate on apps and tools for everyday life.
 - 📫 How to reach me - forest.dewberry@gmail.com or on here!
 
 <!---
