@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Forest-Dewberry
-- 👀 I’m interested in using software for marketing and sales, and specifically MLops. Right now I'm in the NuCamp Full Stack Web Development bootcamp. In the past and present I've been doing DevOps with Terraform, Chef, Ansible, Azure CI/CD, PyTest, and more.
+- 👀 I’m interested in using software for marketing and sales, and specifically MLops. Right now I'm in the NuCamp Full Stack Web Development bootcamp. I have experience doing DevOps with Terraform, Chef, Ansible, Azure CI/CD, PyTest, and more.
 - 🌱 I’m currently learning front end web development with React and the Bootstrap framework.
 - 💞️ I’m looking to collaborate on anything, especially websites.
 - 📫 How to reach me - forest.dewberry@gmail.com or on here!
