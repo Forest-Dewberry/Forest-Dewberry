@@ -2,7 +2,7 @@
 - 👀 I’m interested in using software for marketing and sales, and specifically MLops. Right now I'm in the NuCamp Full Stack Web Development bootcamp. I have experience doing DevOps with Terraform, Chef, Ansible, Azure CI/CD, PyTest, and more.
 - 🌱 I’m currently further increasing my skills with front end web development with React and the Bootstrap framework. I also am quite handy with Python, git, and the other basics in any SWE job.
 - 💞️ I’m looking to collaborate on anything, especially websites.
-- 📫 How to reach me - forest.dewberry@gmail.com or on here!
+- 📫 How to reach me - forest.dewberry@gmail.com, https://www.linkedin.com/in/forest-dewberry/ or facebook.com/fdewberry/ or on here!
 
 
 <!---
